@@ -22,7 +22,18 @@ In this repository you can find the worksheets for the module <strong> Open Quan
 </ul>
 
 
-<li> Worksheet 3 </li>
+<li> Worksheet 3: </li>
+<ul>
+<li> Fluctuations of position and momentum of a simple harmonic hamiltonian  </li>
+<li> Driven harmonic oscillator (analytical and numerical approach)</li>
+<li> Two coupled harmonic oscillators</li>
+<li> Husimi-Q functions of <i> cat states </i> (superposition) and mixed states. Both of coherent states</li>
+<li> Husimi-Q function of Fock state and Hilbert space trucation for infinite-dimensional oscillators</li>
+<li> Simulation of <i> quadratic hamiltonians </i> using displacement vector and correlation matrix dynamics. Evolution of bipartite Fock and coherent states</li>
+<li> M-mode quadratic hamiltonian with dynamical simulation of a thermalisation process</li>
+  <li> </li>
+  <li> </li>
+</ul>
 
 <li> Worksheet 4 </li>
 
