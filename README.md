@@ -43,7 +43,7 @@ In this repository you can find the worksheets for the module <strong> Open Quan
 <li> Vectorisation of operators</li>
 <li> Simulation of a driven-dissipative qubit described by an interaction-picture master equation</li>
 <li> Simulation of quantum jump trajectories for the driven-dissipative qubit</li>
-<li> Husimi-Q function of the steady state of a cavity mode interacting with a non-linear medium (anharmonic oscillator) for different values of the detunning $\Delta$ </li>
+<li> Husimi-Q function of the steady state of a cavity mode interacting with a non-linear medium (anharmonic oscillator) for different values of the detunning ($\Delta$) </li>
 </ul>
   
   
