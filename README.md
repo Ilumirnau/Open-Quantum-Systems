@@ -36,5 +36,15 @@ In this repository you can find the worksheets for the module <strong> Open Quan
 </ul>
 
 <li> Worksheet 4 </li>
-
+<ul>
+<li> Two-qubit hamiltonian under dephasing. Lindblad equation. </li>
+<li> Master equation with linear dissipation in an M-mode system with quadratic hamiltonian. Finding the steady state of the system</li>
+<li> Use of superoperators for constructing a Liouvillian numerically. Lindblad equation for a thermal bath</li>
+<li> Vectorisation of operators</li>
+<li> Simulation of a driven-dissipative qubit described by an interaction-picture master equation</li>
+<li> Simulation of quantum jump trajectories for the driven-dissipative qubit</li>
+<li> Husimi-Q function of the steady state of a cavity mode interacting with a non-linear medium (anharmonic oscillator) for different values of the detunning $\Delta$ </li>
+</ul>
+  
+  
 </ul>
