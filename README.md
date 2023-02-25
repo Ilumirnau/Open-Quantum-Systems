@@ -6,7 +6,7 @@ In this repository you can find the worksheets for the module <strong> Open Quan
 
 <ul>
 <li>simple unitary dynamics of single-qubit systems</li>
-<li>The simulated hamiltonians includedriven systems with time-dependent perturbations</li>
+<li>The simulated hamiltonians include driven systems with time-dependent perturbations</li>
 <li>A thorough study of the limits of the validity of the rotating wave approximaiton (RWA)</li>
 <li>The last exercises iclude two-qubit dynamics and a XXY Ising model for an open chain with 5 to 9 spings</li>
 </ul>
